@@ -9,6 +9,10 @@ fun main() {
     var p:Long=1122334455
     var q:Short=-2
     var r:Byte=125
+    val co=60
+    j=30
+    println("sum= ${i+j}")
+    println("co= $co")
     println("r="+r)
     println("q="+q)
     println("p="+p)
